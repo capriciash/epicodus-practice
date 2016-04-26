@@ -7,7 +7,9 @@ Committed to excellent commits, Epicompany is there for all of your version cont
 
 Founded in the future, this hypothetical company will someday have lots of history. For now, we don't even exist. (But maybe in your git repository, we do.)
 
-## Located in your hippocampus, you can call on our needs only through an advanced cocktail of brain chemicals.
+## Located
+
+In your hippocampus, you can call on our needs only through an advanced cocktail of brain chemicals.
 
 ## Employees
 
