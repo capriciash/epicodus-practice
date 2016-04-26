@@ -13,7 +13,7 @@ But the reef appears to be thriving below the freshwater “plume”, or outflow
 
 ## The extensive reef system is almost 700 miles long
 
-![guardian river graph](/img/guardian_graph.png)
+![guardian river graph](img/guardian_graph.png)
 
 Its discovery came as a complete surprise, says co-author Patricia Yager, a professor of oceanography and climate change at the University of Georgia. “I was flabbergasted, as were the rest of the 30 oceanographers. Traditionally, our understanding of reefs has focused on tropical shallow coral reefs which harbour biodiversity that rivals tropical rainforests,” [she told The Atlantic.](http://www.theatlantic.com/science/archive/2016/04/scientists-discover-a-new-coral-reef-at-the-amazons-mouth/479259/)
 
